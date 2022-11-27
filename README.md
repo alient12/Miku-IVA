@@ -4,7 +4,7 @@ A new open source intelligent virtual assistant based on the popular Vocaloid Ha
 This is the start of a long-term open source project named Miku-IVA. I probably change the project's name because I have not thought about it and I just wanted to make
 a repo to store my ideas.
 
-## Main fetures:
+## fetures ideas:
 - Using [3D character](https://github.com/alient12/MikuMikuAlive)
 - Using [Miku voice](https://github.com/vanstorm9/AI-Vocaloid-Kit-V2)
 - Using reinforcment learning to make it more human like and smarter
