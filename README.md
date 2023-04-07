@@ -13,5 +13,6 @@ a repo to store my ideas.
 - Using [OpenAI Codex](https://openai.com/blog/openai-codex/) to help programmers e.g. "create a youtube downloader in python"
 - Ability to [detect song](https://github.com/SeaDve/Mousai) from computer output sound even if it's muted
 - Ability to detect [musical note](https://github.com/alient12/Musical-note-detector) and [songs note](https://github.com/vanstorm9/AI-Vocaloid-Kit-V2)
+- [Singing from MIDI file](https://github.com/mathigatti/midi2voice)
 
 I'm currently working on the first part...
